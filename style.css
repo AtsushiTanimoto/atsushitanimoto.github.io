@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>私のGitHub Pagesサイト</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h1>ようこそ！</h1>
-    <p>これは私のGitHub Pagesサイトです。</p>
-</body>
-</html>
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f0f0f0;
+    color: #333;
+}
+h1 {
+    color: #007bff;
+}
