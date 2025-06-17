@@ -20,7 +20,7 @@ author:
   location         : "鹿児島県"
   employer         : "鹿児島大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ats141592@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -39,16 +39,6 @@ author:
   github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
 
 
 # Site Settings
@@ -87,37 +77,6 @@ staticman:
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
-
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-
-# Analytics
-analytics:
-  provider               :  "true" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :
 
 
 # Reading Files
@@ -181,33 +140,13 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+    news:
+        output: true
+        permalink: /posts/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -233,15 +172,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
