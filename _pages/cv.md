@@ -9,56 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+学歴
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2015年　大阪府立大学　工学部　数理工学科卒業
+* 2017年　京都大学大学院　理学研究科　物理学・宇宙物理学専攻　修士課程修了
+* 2020年　京都大学大学院　理学研究科　物理学・宇宙物理学専攻　博士課程修了
 
-Work experience
+職歴
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2017年-2020年　京都大学大学院　　理学研究科　　日本学術振興会特別研究員DC1
+* 2020年-2022年　東京大学大学院　　理学系研究科　日本学術振興会特別研究員PD
+* 2022年-2025年　鹿児島大学大学院　理工学研究科　特任助教
