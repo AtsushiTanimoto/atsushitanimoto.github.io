@@ -21,18 +21,24 @@ bundle exec jekyll serve
 ```
 
 ## 3. GitHub Pages に公開する
-1. GitHub で `atsushitanimoto.github.io` という名前の **公開** リポジトリを作成(atsushitanimoto は自分の GitHub ユーザー名)
-2. `_config.yml` の `url` を `https://atsushitanimoto.github.io` に書き換える
-3. 以下を実行:
-   ```sh
-   git add -A
-   git commit -m "Initial lab website"
-   git branch -M main
-   git remote add origin https://github.com/atsushitanimoto/atsushitanimoto.github.io.git
-   git push -u origin main
-   ```
-4. GitHub のリポジトリ → Settings → Pages → Source を「**GitHub Actions**」にする(`.github/workflows/pages.yml` が自動でビルド・公開します)
-5. 数分後 `https://atsushitanimoto.github.io/` で公開されます(push するたびに自動更新)
+リポジトリ `atsushitanimoto/atsushitanimoto.github.io` の `master` ブランチに push すると、
+GitHub Actions(`.github/workflows/pages.yml`)が自動でビルドし、数分後に
+https://atsushitanimoto.github.io/ に反映されます。
+
+```sh
+cd /Users/tanimoto/github/atsushitanimoto.github.io
+git add -A
+git commit -m "更新内容"
+git push
+```
+
+Settings → Pages → Source は「GitHub Actions」にしておきます。
+
+## 4. 業績を更新する
+```sh
+ADS_DEV_KEY=<SciX/ADS の API トークン> python3 scripts/ads_import.py
+```
+査読付き論文のみを取得し、主著・共著に分けて `_data/publications.yml` を生成します。
 
 ## 補足
 - ローカルは Ruby 4.0 のため `github-pages` gem が使えません。代わりに Jekyll 4 系 + GitHub Actions で公開する構成にしています。
