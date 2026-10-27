@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<article class="page post">
+  <p class="post-date">{{ page.date | date: "%Y-%m-%d" }}</p>
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+  {%- assign t = site.data.i18n[page.lang] -%}
+  <p class="back"><a href="{% if page.lang == 'en' %}/en/news/{% else %}/news/{% endif %}">&larr; {{ t.all_news }}</a></p>
+</article>

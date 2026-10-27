@@ -1,0 +1,86 @@
+:root {
+  --bg: #ffffff;
+  --fg: #1f2933;
+  --muted: #5f6b7a;
+  --accent: #1f5fa8;
+  --accent-dark: #174a84;
+  --line: #e1e7ee;
+  --card: #f6f8fa;
+  --max: 980px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14181d; --fg: #e6e9ed; --muted: #9aa5b1;
+    --accent: #6ea8ff; --accent-dark: #8dbaff; --line: #2a323c; --card: #1c2229;
+  }
+}
+* { box-sizing: border-box; }
+html { font-size: 16px; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg); line-height: 1.75;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", Meiryo, sans-serif;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+img { max-width: 100%; }
+.container { max-width: var(--max); margin: 0 auto; padding: 0 16px; }
+main.container { padding-top: 32px; padding-bottom: 64px; min-height: 60vh; }
+
+/* header */
+.site-header { border-bottom: 1px solid var(--line); background: var(--bg); position: sticky; top: 0; z-index: 10; }
+.header-inner { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; min-height: 60px; }
+.brand { font-weight: 700; font-size: 1.2rem; color: var(--fg); }
+.site-nav { display: flex; gap: 4px; flex-wrap: wrap; }
+.nav-link { padding: 6px 10px; border-radius: 6px; color: var(--fg); font-size: 0.95rem; }
+.nav-link:hover { background: var(--card); text-decoration: none; }
+.nav-link.active { color: var(--accent); font-weight: 600; }
+.lang-switch { border: 1px solid var(--line); margin-left: 8px; }
+.nav-toggle, .nav-burger { display: none; }
+@media (max-width: 760px) {
+  .nav-burger { display: flex; flex-direction: column; gap: 5px; cursor: pointer; padding: 8px; }
+  .nav-burger span { width: 24px; height: 2px; background: var(--fg); display: block; }
+  .site-nav { display: none; width: 100%; flex-direction: column; padding-bottom: 12px; }
+  .nav-toggle:checked ~ .site-nav { display: flex; }
+}
+
+/* hero */
+.hero { padding: 24px 0 40px; border-bottom: 1px solid var(--line); margin-bottom: 32px; }
+.hero h1 { font-size: 2.2rem; margin: 0 0 12px; }
+.lead { font-size: 1.1rem; color: var(--muted); }
+.button { display: inline-block; background: var(--accent); color: #fff; padding: 10px 20px; border-radius: 6px; font-weight: 600; }
+.button:hover { background: var(--accent-dark); text-decoration: none; }
+
+/* page */
+.page-title { font-size: 1.9rem; margin: 0 0 24px; padding-bottom: 8px; border-bottom: 2px solid var(--accent); }
+h2 { font-size: 1.4rem; margin-top: 2em; padding-left: 10px; border-left: 4px solid var(--accent); }
+h3 { font-size: 1.1rem; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid var(--line); padding: 8px 12px; text-align: left; }
+th { background: var(--card); }
+
+/* members */
+.member-table td, .member-table th { vertical-align: top; font-size: 0.95rem; }
+.member-table .member-name { font-weight: 600; white-space: nowrap; }
+@media (max-width: 760px) {
+  .member-table thead { display: none; }
+  .member-table tr { display: block; border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; margin-bottom: 12px; background: var(--card); }
+  .member-table td { display: block; border: none; padding: 2px 0; }
+}
+
+/* publications */
+.pub-list { padding-left: 1.6em; }
+.pub-item { margin-bottom: 0.8em; }
+.pub-title { font-weight: 600; }
+.pub-link { font-size: 0.85rem; padding: 1px 6px; border: 1px solid var(--accent); border-radius: 4px; margin-left: 4px; }
+
+/* news */
+.news-list { list-style: none; padding: 0; }
+.news-list li { padding: 8px 0; border-bottom: 1px solid var(--line); }
+.news-list time { color: var(--muted); font-variant-numeric: tabular-nums; margin-right: 12px; }
+.post-date { color: var(--muted); margin: 0; }
+.back { margin-top: 2em; }
+
+.map iframe { display: block; border-radius: 8px; }
+
+/* footer */
+.site-footer { border-top: 1px solid var(--line); padding: 24px 0; color: var(--muted); font-size: 0.9rem; text-align: center; }

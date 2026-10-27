@@ -1,0 +1,17 @@
+{%- assign lang = page.lang | default: site.lang -%}
+<table class="member-table">
+  <thead>
+    <tr>
+      {% if lang == 'en' %}<th>Name</th><th>Position</th><th>Email</th>{% else %}<th>氏名</th><th>職位・学年</th><th>メールアドレス</th>{% endif %}
+    </tr>
+  </thead>
+  <tbody>
+  {%- for m in site.data.members %}
+    <tr>
+      <td class="member-name">{% if lang == 'en' %}{{ m.name_en | default: m.name }}{% else %}{{ m.name }}{% endif %}</td>
+      <td>{% if lang == 'en' %}{{ m.role_en | default: m.role }}{% else %}{{ m.role }}{% endif %}</td>
+      <td>{% if m.email %}{% include email.html address=m.email %}{% endif %}</td>
+    </tr>
+  {%- endfor %}
+  </tbody>
+</table>

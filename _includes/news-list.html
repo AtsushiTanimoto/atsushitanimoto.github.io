@@ -1,0 +1,9 @@
+{%- assign lang = page.lang | default: site.lang -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- assign items = site.news | where: "lang", lang | sort: "date" | reverse -%}
+{%- if include.limit %}{% assign items = items | slice: 0, include.limit %}{% endif -%}
+<ul class="news-list">
+{%- for n in items %}
+  <li><time>{{ n.date | date: "%Y-%m-%d" }}</time> <a href="{{ n.url | relative_url }}">{{ n.title }}</a></li>
+{%- endfor %}
+</ul>

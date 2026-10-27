@@ -1,0 +1,7 @@
+{%- comment -%}
+使い方: {% include email.html address="foo@example.ac.jp" %}
+メールアドレスを HTML 上に平文で置かず、JavaScript で表示時に組み立てる(スパム対策)。
+{%- endcomment -%}
+{%- assign addr = include.address | default: site.email -%}
+{%- assign parts = addr | split: "@" -%}
+<span class="js-email" data-u="{{ parts[0] | split: '' | reverse | join: '' }}" data-d="{{ parts[1] | split: '' | reverse | join: '' }}"><noscript>{{ parts[0] }} [at] {{ parts[1] }}</noscript></span>

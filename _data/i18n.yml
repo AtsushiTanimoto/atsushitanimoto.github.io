@@ -1,0 +1,18 @@
+ja:
+  switch_lang: "English"
+  switch_url: "/en/"
+  read_more: "続きを読む"
+  news_latest: "最新ニュース"
+  all_news: "ニュース一覧"
+  first_author: "主著論文(査読付き)"
+  coauthor: "共著論文(査読付き)"
+  footer: "All rights reserved."
+en:
+  switch_lang: "日本語"
+  switch_url: "/"
+  read_more: "Read more"
+  news_latest: "Latest News"
+  all_news: "All news"
+  first_author: "First-author Papers (Refereed)"
+  coauthor: "Co-authored Papers (Refereed)"
+  footer: "All rights reserved."

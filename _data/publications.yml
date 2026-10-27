@@ -1,0 +1,741 @@
+# NASA ADS から自動生成 (query: author:"Tanimoto, Atsushi" AND collection:astronomy AND doctype:article AND property:refereed)。手で編集しても構いませんが、再実行すると上書きされます。
+- type: coauthor
+  year: 2026
+  authors: "R. Sato, K. Hagino, T. Iwata, E. Behar, V. Braito, et al."
+  title: "The geometry of ultra-fast outflows probed by soft X-ray variability in PDS 456"
+  journal: "Publications of the Astronomical Society of Japan"
+  bibcode: 2026PASJ..tmp..212S
+  doi: "10.1093/pasj/psag126"
+- type: coauthor
+  year: 2026
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "Chemical enrichment of the Perseus cluster core seen by XRISM/Resolve"
+  journal: "Astronomy and Astrophysics"
+  bibcode: 2026A&A...712A.122X
+  volume: "712"
+  pages: "A122"
+  doi: "10.1051/0004-6361/202659603"
+  arxiv: "2606.17141"
+- type: coauthor
+  year: 2026
+  authors: "A. Juráňová, E. Kara, E. Behar, E. Costantini, J. M. Miller, et al."
+  title: "The Dynamic Central Environment of NGC 3516 Revealed by XRISM"
+  journal: "The Astrophysical Journal"
+  bibcode: 2026ApJ..1005...27J
+  volume: "1005"
+  pages: "27"
+  doi: "10.3847/1538-4357/ae6b79"
+- type: coauthor
+  year: 2026
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "High-spectral-resolution X-Ray Observations of the Evolved Supermassive Stellar Binary System η Carinae: Fe Kα Band Profile Revealed with XRISM"
+  journal: "The Astrophysical Journal"
+  bibcode: 2026ApJ..1003..156X
+  volume: "1003"
+  pages: "156"
+  doi: "10.3847/1538-4357/ae3a80"
+  arxiv: "2602.22476"
+- type: coauthor
+  year: 2026
+  authors: "XRISM Collaboration, H. Awaki, R. Ballhausen, A. Bamba, E. Behar, et al."
+  title: "Accurate determination of chemical abundances near a supermassive black hole"
+  journal: "Nature Astronomy"
+  bibcode: 2026NatAs..10..880X
+  volume: "10"
+  pages: "880"
+  doi: "10.1038/s41550-026-02817-6"
+  arxiv: "2603.29748"
+- type: coauthor
+  year: 2026
+  authors: "J. N. Reeves, V. Braito, M. Mizumoto, S. B. Kraemer, E. Behar, et al."
+  title: "Resolving the Multiple Component Outflows in PG 1211+143. II. The Soft X-Ray View of the Ultrafast Outflow"
+  journal: "The Astrophysical Journal"
+  bibcode: 2026ApJ..1000..170R
+  volume: "1000"
+  pages: "170"
+  doi: "10.3847/1538-4357/ae47e8"
+  arxiv: "2602.16496"
+- type: coauthor
+  year: 2026
+  authors: "S. Takashima, H. Odaka, R. Tomaru, A. Tanimoto, A. Bamba, et al."
+  title: "X-ray analysis and photon-transport simulations of SMC X-1: a warped-disc origin of the superorbital modulation"
+  journal: "Monthly Notices of the Royal Astronomical Society"
+  bibcode: 2026MNRAS.546ag168T
+  volume: "546"
+  pages: "stag168"
+  doi: "10.1093/mnras/stag168"
+  arxiv: "2601.13978"
+- type: coauthor
+  year: 2026
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "A fast starburst wind consumes most of the energy from supernovae"
+  journal: "Nature"
+  bibcode: 2026Natur.651..909X
+  volume: "651"
+  pages: "909"
+  doi: "10.1038/s41586-026-10231-1"
+- type: first
+  year: 2026
+  authors: "A. Tanimoto, K. Wada, Y. Kudoh, N. Kawakatu, M. Nomura, et al."
+  title: "Unification Model of Active Galactic Nuclei by Photoionization Equilibrium Calculation Based on Radiative Hydrodynamic Simulations"
+  journal: "The Astrophysical Journal"
+  bibcode: 2026ApJ...999..157T
+  volume: "999"
+  pages: "157"
+  doi: "10.3847/1538-4357/ae4514"
+  arxiv: "2602.11474"
+- type: coauthor
+  year: 2026
+  authors: "M. Mizumoto, J. N. Reeves, V. Braito, E. Behar, C. Done, et al."
+  title: "Resolving the Multiple Component Outflows in PG 1211+143. I. The Fe─K Absorption Structure and UFO Forest"
+  journal: "The Astrophysical Journal"
+  bibcode: 2026ApJ...997..219M
+  volume: "997"
+  pages: "219"
+  doi: "10.3847/1538-4357/ae2853"
+  arxiv: "2512.03533"
+- type: coauthor
+  year: 2026
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "A XRISM/Resolve View of the Dynamics in the Hot Gaseous Atmosphere of M87"
+  journal: "The Astrophysical Journal"
+  bibcode: 2026ApJ...998..210X
+  volume: "998"
+  pages: "210"
+  doi: "10.3847/1538-4357/ae2c5c"
+  arxiv: "2512.06596"
+- type: coauthor
+  year: 2026
+  authors: "The XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "Disentangling multiple gas kinematic drivers in the Perseus galaxy cluster"
+  journal: "Nature"
+  bibcode: 2026Natur.650..309T
+  volume: "650"
+  pages: "309"
+  doi: "10.1038/s41586-025-10017-x"
+  arxiv: "2509.04421"
+- type: coauthor
+  year: 2026
+  authors: "C. Li, J. S. Kaastra, L. Gu, M. Mehdipour, M. E. Eckart, et al."
+  title: "Delving into the depths of NGC 3783 with XRISM: IV. Mapping of the accretion flow with Fe Kα emission lines"
+  journal: "Astronomy and Astrophysics"
+  bibcode: 2026A&A...706A.255L
+  volume: "706"
+  pages: "A255"
+  doi: "10.1051/0004-6361/202557710"
+  arxiv: "2512.09207"
+- type: coauthor
+  year: 2026
+  authors: "XRISM Collaboration, H. Awaki, R. Ballhausen, A. Bamba, E. Behar, et al."
+  title: "Chlorine and potassium enrichment in the Cassiopeia A supernova remnant"
+  journal: "Nature Astronomy"
+  bibcode: 2026NatAs..10..144X
+  volume: "10"
+  pages: "144"
+  doi: "10.1038/s41550-025-02714-4"
+  arxiv: "2512.04508"
+- type: first
+  year: 2025
+  authors: "A. Tanimoto, K. Fukumura, S. Ogawa, H. Odaka, F. Tombesi, et al."
+  title: "Emission and Absorption Features of Magnetically Driven Disk Winds in Black Hole X-Ray Binaries"
+  journal: "The Astrophysical Journal"
+  bibcode: 2025ApJ...994..258T
+  volume: "994"
+  pages: "258"
+  doi: "10.3847/1538-4357/ae16a5"
+  arxiv: "2510.24844"
+- type: coauthor
+  year: 2025
+  authors: "K. Fukumura, S. Ogawa, A. Tanimoto, F. Tombesi, A. Luminari, et al."
+  title: "Probing Accretion Disk Winds of Stratified Nature with Fe XXVI Doublet in Black Hole X-Ray Binaries"
+  journal: "The Astrophysical Journal"
+  bibcode: 2025ApJ...994..218F
+  volume: "994"
+  pages: "218"
+  doi: "10.3847/1538-4357/ae19e2"
+  arxiv: "2510.19539"
+- type: coauthor
+  year: 2025
+  authors: "L. Gu, K. Fukumura, J. Kaastra, M. Eckart, R. Ballhausen, et al."
+  title: "Delving into the depths of NGC 3783 with XRISM: III. Birth of an ultrafast outflow during a soft flare"
+  journal: "Astronomy and Astrophysics"
+  bibcode: 2025A&A...704A.146G
+  volume: "704"
+  pages: "A146"
+  doi: "10.1051/0004-6361/202557189"
+  arxiv: "2512.08448"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "XRISM/Resolve view of Abell 2319: Turbulence, sloshing, and ICM dynamics"
+  journal: "Publications of the Astronomical Society of Japan"
+  bibcode: 2025PASJ...77.1278X
+  volume: "77"
+  pages: "1278"
+  doi: "10.1093/pasj/psaf109"
+  arxiv: "2508.05067"
+- type: coauthor
+  year: 2025
+  authors: "H. Noda, S. Yamada, S. Ogawa, K. Hagino, E. Behar, et al."
+  title: "Discovery of Powerful Multivelocity Ultrafast Outflows in the Starburst Merger Galaxy IRAS 05189─2524 with XRISM"
+  journal: "The Astrophysical Journal Letters"
+  bibcode: 2025ApJ...993L..53N
+  volume: "993"
+  pages: "L53"
+  doi: "10.3847/2041-8213/ae14e8"
+  arxiv: "2510.18027"
+- type: coauthor
+  year: 2025
+  authors: "E. Kammoun, T. Kawamuro, K. Murakami, S. Bianchi, F. Nicastro, et al."
+  title: "XRISM/Resolve Reveals the Complex Iron Structure of NGC 7213: Evidence for Radial Stratification between Inner Disk and Broad-line Region"
+  journal: "The Astrophysical Journal Letters"
+  bibcode: 2025ApJ...994L..13K
+  volume: "994"
+  pages: "L13"
+  doi: "10.3847/2041-8213/ae18c2"
+  arxiv: "2510.24971"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "XRISM Constraints on Unidentified X-Ray Emission Lines, Including the 3.5 keV Line, in the Stacked Spectrum of 10 Galaxy Clusters"
+  journal: "The Astrophysical Journal Letters"
+  bibcode: 2025ApJ...994L..28X
+  volume: "994"
+  pages: "L28"
+  doi: "10.3847/2041-8213/ae17ad"
+  arxiv: "2510.24560"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "Comparing XRISM Cluster Velocity Dispersions with Predictions from Cosmological Simulations: Are Feedback Models Too Ejective?"
+  journal: "The Astrophysical Journal Letters"
+  bibcode: 2025ApJ...993L..11X
+  volume: "993"
+  pages: "L11"
+  doi: "10.3847/2041-8213/ae100c"
+  arxiv: "2510.06322"
+- type: coauthor
+  year: 2025
+  authors: "Y. Terada, M. Shidatsu, M. Sawada, T. Kominato, S. Kato, et al."
+  title: "Development of the timing system for the X-ray imaging and spectroscopy mission"
+  journal: "Journal of Astronomical Telescopes, Instruments, and Systems"
+  bibcode: 2025JATIS..11d2007T
+  volume: "11"
+  pages: "042007"
+  doi: "10.1117/1.JATIS.11.4.042007"
+  arxiv: "2503.13807"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "Stratified wind from a super-Eddington X-ray binary is slower than expected"
+  journal: "Nature"
+  bibcode: 2025Natur.646...57X
+  volume: "646"
+  pages: "57"
+  doi: "10.1038/s41586-025-09495-w"
+  arxiv: "2509.14555"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "Delving into the depths of NGC 3783 with XRISM: II. Cross-calibration of X-ray instruments used in the large, multi-mission observational campaign"
+  journal: "Astronomy and Astrophysics"
+  bibcode: 2025A&A...702A.147X
+  volume: "702"
+  pages: "A147"
+  doi: "10.1051/0004-6361/202556000"
+  arxiv: "2509.08649"
+- type: coauthor
+  year: 2025
+  authors: "Y. Kanemaru, R. Iizuka, Y. Maeda, T. Okajima, T. Hayashi, et al."
+  title: "Evaluation of the pointing accuracy of the X-Ray Imaging and Spectroscopy Mission during the first year"
+  journal: "Journal of Astronomical Telescopes, Instruments, and Systems"
+  bibcode: 2025JATIS..11d2025K
+  volume: "11"
+  pages: "042025"
+  doi: "10.1117/1.JATIS.11.4.042025"
+- type: coauthor
+  year: 2025
+  authors: "M. Shidatsu, Y. Terada, T. Kominato, S. Kato, R. Sato, et al."
+  title: "Verification of the timing system for the X-ray Imaging and Spectroscopy Mission in the GPS unsynchronized mode"
+  journal: "Journal of Astronomical Telescopes, Instruments, and Systems"
+  bibcode: 2025JATIS..11d2012S
+  volume: "11"
+  pages: "042012"
+  doi: "10.1117/1.JATIS.11.4.042012"
+  arxiv: "2506.02967"
+- type: coauthor
+  year: 2025
+  authors: "K. Hayashi, M. Tashiro, Y. Terada, T. Yoshida, S. Ogawa, et al."
+  title: "In-orbit science operations for the X-Ray Imaging and Spectroscopy Mission"
+  journal: "Journal of Astronomical Telescopes, Instruments, and Systems"
+  bibcode: 2025JATIS..11d2017H
+  volume: "11"
+  pages: "042017"
+  doi: "10.1117/1.JATIS.11.4.042017"
+- type: coauthor
+  year: 2025
+  authors: "M. Tashiro, R. Kelley, S. Watanabe, H. Maejima, L. Reichenthal, et al."
+  title: "X-Ray Imaging and Spectroscopy Mission"
+  journal: "Publications of the Astronomical Society of Japan"
+  bibcode: 2025PASJ...77S...1T
+  volume: "77"
+  pages: "S1"
+  doi: "10.1093/pasj/psaf023"
+- type: coauthor
+  year: 2025
+  authors: "Y. Xu, L. C. Gallo, K. Hagino, J. N. Reeves, F. Tombesi, et al."
+  title: "Unraveling the structure of the stratified ultra-fast outflows in PDS 456 with XRISM"
+  journal: "Publications of the Astronomical Society of Japan"
+  bibcode: 2025PASJ...77S.223X
+  volume: "77"
+  pages: "S223"
+  doi: "10.1093/pasj/psaf070"
+  arxiv: "2506.05273"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "Constraining gas motion and non-thermal pressure beyond the core of the Abell 2029 galaxy cluster with XRISM"
+  journal: "Publications of the Astronomical Society of Japan"
+  bibcode: 2025PASJ...77S.242X
+  volume: "77"
+  pages: "S242"
+  doi: "10.1093/pasj/psaf055"
+  arxiv: "2505.06533"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "Thermal and kinematic properties of ejecta in SN1987A revealed by XRISM"
+  journal: "Publications of the Astronomical Society of Japan"
+  bibcode: 2025PASJ...77S.193X
+  volume: "77"
+  pages: "S193"
+  doi: "10.1093/pasj/psaf056"
+  arxiv: "2505.07479"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "Kinematic Evidence for Bipolar Ejecta Flows in the Galactic Supernova Remnant W49B"
+  journal: "The Astrophysical Journal Letters"
+  bibcode: 2025ApJ...988L..58X
+  volume: "988"
+  pages: "L58"
+  doi: "10.3847/2041-8213/ade138"
+  arxiv: "2506.05455"
+- type: coauthor
+  year: 2025
+  authors: "M. Mehdipour, J. S. Kaastra, M. E. Eckart, L. Gu, R. Ballhausen, et al."
+  title: "Delving into the depths of NGC 3783 with XRISM: I. Kinematic and ionization structure of the highly ionized outflows"
+  journal: "Astronomy and Astrophysics"
+  bibcode: 2025A&A...699A.228M
+  volume: "699"
+  pages: "A228"
+  doi: "10.1051/0004-6361/202555623"
+  arxiv: "2506.09395"
+- type: coauthor
+  year: 2025
+  authors: "K. Oh, Y. Ueda, S. Yamada, Y. Toba, K. Isogai, et al."
+  title: "AGN outflows and their properties in Mrk 766 as revealed by KOOLS-IFU on the Seimei Telescope"
+  journal: "Publications of the Astronomical Society of Japan"
+  bibcode: 2025PASJ...77..562O
+  volume: "77"
+  pages: "562"
+  doi: "10.1093/pasj/psaf025"
+  arxiv: "2504.02936"
+- type: first
+  year: 2025
+  authors: "A. Tanimoto, K. Wada, H. Odaka, Y. Kudoh, N. Kawakatu"
+  title: "X-Ray Radiative Transfer Calculation Based on a Physics-based Model of the Subparsec-scale Gases around an Active Galactic Nucleus and Its Application to NGC 3783"
+  journal: "The Astrophysical Journal"
+  bibcode: 2025ApJ...986..186T
+  volume: "986"
+  pages: "186"
+  doi: "10.3847/1538-4357/add402"
+  arxiv: "2505.09693"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "XRISM Forecast for the Coma Cluster: Stormy, with a Steep Power Spectrum"
+  journal: "The Astrophysical Journal Letters"
+  bibcode: 2025ApJ...985L..20X
+  volume: "985"
+  pages: "L20"
+  doi: "10.3847/2041-8213/add2f6"
+  arxiv: "2504.20928"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "Structured ionized winds shooting out from a quasar at relativistic speeds"
+  journal: "Nature"
+  bibcode: 2025Natur.641.1132X
+  volume: "641"
+  pages: "1132"
+  doi: "10.1038/s41586-025-08968-2"
+  arxiv: "2505.09171"
+- type: coauthor
+  year: 2025
+  authors: "T. Tamba, H. Odaka, A. Tanimoto, H. Suzuki, S. Takashima, et al."
+  title: "The Nature of Spectral Variability of the Accreting Pulsar Centaurus X-3 Unveiled by NuSTAR Observation Covering Two Orbital Cycles"
+  journal: "The Astrophysical Journal"
+  bibcode: 2025ApJ...984..126T
+  volume: "984"
+  pages: "126"
+  doi: "10.3847/1538-4357/adcc1e"
+  arxiv: "2504.10670"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "XRISM Reveals Low Nonthermal Pressure in the Core of the Hot, Relaxed Galaxy Cluster A2029"
+  journal: "The Astrophysical Journal Letters"
+  bibcode: 2025ApJ...982L...5X
+  volume: "982"
+  pages: "L5"
+  doi: "10.3847/2041-8213/ada7cd"
+  arxiv: "2501.05514"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "Overionized plasma in the supernova remnant Sagittarius A East anchored by XRISM observations"
+  journal: "Publications of the Astronomical Society of Japan"
+  bibcode: 2025PASJ...77L...1X
+  volume: "77"
+  pages: "L1"
+  doi: "10.1093/pasj/psae111"
+- type: coauthor
+  year: 2025
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "The bulk motion of gas in the core of the Centaurus galaxy cluster"
+  journal: "Nature"
+  bibcode: 2025Natur.638..365X
+  volume: "638"
+  pages: "365"
+  doi: "10.1038/s41586-024-08561-z"
+  arxiv: "2502.08722"
+- type: coauthor
+  year: 2024
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "The XRISM/Resolve View of the Fe K Region of Cyg X-3"
+  journal: "The Astrophysical Journal Letters"
+  bibcode: 2024ApJ...977L..34X
+  volume: "977"
+  pages: "L34"
+  doi: "10.3847/2041-8213/ad8ed0"
+  arxiv: "2411.00597"
+- type: coauthor
+  year: 2024
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "The XRISM first-light observation: Velocity structure and thermal properties of the supernova remnant N 132D"
+  journal: "Publications of the Astronomical Society of Japan"
+  bibcode: 2024PASJ...76.1186X
+  volume: "76"
+  pages: "1186"
+  doi: "10.1093/pasj/psae080"
+  arxiv: "2408.14301"
+- type: coauthor
+  year: 2024
+  authors: "T. Iwata, A. Tanimoto, H. Odaka, A. Bamba, Y. Inoue, et al."
+  title: "Multi-epoch X-ray spectral analysis of Centaurus A: Revealing new constraints on iron emission line origins"
+  journal: "Publications of the Astronomical Society of Japan"
+  bibcode: 2024PASJ...76..923I
+  volume: "76"
+  pages: "923"
+  doi: "10.1093/pasj/psae059"
+  arxiv: "2406.14488"
+- type: coauthor
+  year: 2024
+  authors: "T. Tamba, H. Odaka, T. Watanabe, T. Iwata, T. Kasuga, et al."
+  title: "Imaging reconstruction method on X-ray data of CMOS polarimeter combined with coded aperture"
+  journal: "Nuclear Instruments and Methods in Physics Research A"
+  bibcode: 2024NIMPA106769589T
+  volume: "1067"
+  pages: "169589"
+  doi: "10.1016/j.nima.2024.169589"
+  arxiv: "2407.05443"
+- type: coauthor
+  year: 2024
+  authors: "XRISM Collaboration, M. Audard, H. Awaki, R. Ballhausen, A. Bamba, et al."
+  title: "XRISM Spectroscopy of the Fe Kα Emission Line in the Seyfert Active Galactic Nucleus NGC 4151 Reveals the Disk, Broad-line Region, and Torus"
+  journal: "The Astrophysical Journal Letters"
+  bibcode: 2024ApJ...973L..25X
+  volume: "973"
+  pages: "L25"
+  doi: "10.3847/2041-8213/ad7397"
+  arxiv: "2408.14300"
+- type: coauthor
+  year: 2024
+  authors: "S. Yamada, Y. Ueda, T. Kawamuro, C. Ricci, Y. Toba, et al."
+  title: "[O IV]- and [Ne V]-weak Active Galactic Nuclei Hidden by Compton-thick Material in Late Mergers"
+  journal: "The Astrophysical Journal"
+  bibcode: 2024ApJ...965..153Y
+  volume: "965"
+  pages: "153"
+  doi: "10.3847/1538-4357/ad2936"
+  arxiv: "2402.05992"
+- type: first
+  year: 2023
+  authors: "A. Tanimoto, K. Wada, Y. Kudoh, H. Odaka, R. Uematsu, et al."
+  title: "Circumnuclear Multiphase Gas in the Circinus Galaxy. V. The Origin of the X-Ray Polarization in the Circinus Galaxy"
+  journal: "The Astrophysical Journal"
+  bibcode: 2023ApJ...958..150T
+  volume: "958"
+  pages: "150"
+  doi: "10.3847/1538-4357/ad06ac"
+  arxiv: "2310.18396"
+- type: coauthor
+  year: 2023
+  authors: "R. Tomaru, C. Done, H. Odaka, A. Tanimoto"
+  title: "A different view of wind in X-ray binaries: the accretion disc corona source 2S 0921-630"
+  journal: "Monthly Notices of the Royal Astronomical Society"
+  bibcode: 2023MNRAS.523.3441T
+  volume: "523"
+  pages: "3441"
+  doi: "10.1093/mnras/stad1637"
+  arxiv: "2302.12638"
+- type: coauthor
+  year: 2023
+  authors: "S. Yamada, Y. Ueda, M. Herrera-Endoqui, Y. Toba, T. Miyaji, et al."
+  title: "Hard X-Ray to Radio Multiwavelength SED Analysis of Local U/LIRGs in the GOALS Sample with a Self-consistent AGN Model including a Polar-dust Component"
+  journal: "The Astrophysical Journal Supplement Series"
+  bibcode: 2023ApJS..265...37Y
+  volume: "265"
+  pages: "37"
+  doi: "10.3847/1538-4365/acb349"
+  arxiv: "2301.03613"
+- type: coauthor
+  year: 2023
+  authors: "T. Tamba, H. Odaka, A. Tanimoto, H. Suzuki, S. Takashima, et al."
+  title: "Orbital- and Spin-phase Variability in the X-Ray Emission from the Accreting Pulsar Centaurus X-3"
+  journal: "The Astrophysical Journal"
+  bibcode: 2023ApJ...944....9T
+  volume: "944"
+  pages: "9"
+  doi: "10.3847/1538-4357/acadde"
+  arxiv: "2212.10782"
+- type: coauthor
+  year: 2022
+  authors: "K. Inaba, Y. Ueda, S. Yamada, S. Ogawa, R. Uematsu, et al."
+  title: "Broadband X-Ray Spectral Analysis of the Dual AGN System Mrk 739"
+  journal: "The Astrophysical Journal"
+  bibcode: 2022ApJ...939...88I
+  volume: "939"
+  pages: "88"
+  doi: "10.3847/1538-4357/ac97ec"
+  arxiv: "2210.08791"
+- type: coauthor
+  year: 2022
+  authors: "A. Jana, C. Ricci, S. Naik, A. Tanimoto, N. Kumari, et al."
+  title: "Absorption variability of the highly obscured active galactic nucleus NGC 4507"
+  journal: "Monthly Notices of the Royal Astronomical Society"
+  bibcode: 2022MNRAS.512.5942J
+  volume: "512"
+  pages: "5942"
+  doi: "10.1093/mnras/stac799"
+  arxiv: "2203.10550"
+- type: first
+  year: 2022
+  authors: "A. Tanimoto, Y. Ueda, H. Odaka, S. Yamada, C. Ricci"
+  title: "NuSTAR Observations of 52 Compton-thick Active Galactic Nuclei Selected by the Swift/Burst Alert Telescope All-sky Hard X-Ray Survey"
+  journal: "The Astrophysical Journal Supplement Series"
+  bibcode: 2022ApJS..260...30T
+  volume: "260"
+  pages: "30"
+  doi: "10.3847/1538-4365/ac5f59"
+  arxiv: "2203.13266"
+- type: coauthor
+  year: 2021
+  authors: "S. Yamada, Y. Ueda, A. Tanimoto, M. Imanishi, Y. Toba, et al."
+  title: "Comprehensive Broadband X-Ray and Multiwavelength Study of Active Galactic Nuclei in 57 Local Luminous and Ultraluminous Infrared Galaxies Observed with NuSTAR and/or Swift/BAT"
+  journal: "The Astrophysical Journal Supplement Series"
+  bibcode: 2021ApJS..257...61Y
+  volume: "257"
+  pages: "61"
+  doi: "10.3847/1538-4365/ac17f5"
+  arxiv: "2107.10855"
+- type: coauthor
+  year: 2021
+  authors: "Y. Terada, M. Holland, M. Loewenstein, M. Tashiro, H. Takahashi, et al."
+  title: "Detailed design of the science operations for the XRISM mission"
+  journal: "Journal of Astronomical Telescopes, Instruments, and Systems"
+  bibcode: 2021JATIS...7c7001T
+  volume: "7"
+  pages: "037001"
+  doi: "10.1117/1.JATIS.7.3.037001"
+  arxiv: "2106.01611"
+- type: coauthor
+  year: 2021
+  authors: "R. Uematsu, Y. Ueda, A. Tanimoto, T. Kawamuro, K. Setoguchi, et al."
+  title: "X-Ray Constraint on the Location of the AGN Torus in the Circinus Galaxy"
+  journal: "The Astrophysical Journal"
+  bibcode: 2021ApJ...913...17U
+  volume: "913"
+  pages: "17"
+  doi: "10.3847/1538-4357/abf0a2"
+  arxiv: "2103.11224"
+- type: coauthor
+  year: 2021
+  authors: "S. Ogawa, Y. Ueda, A. Tanimoto, S. Yamada"
+  title: "Systematic Study of AGN Clumpy Tori with Broadband X-Ray Spectroscopy: Updated Unified Picture of AGN Structure"
+  journal: "The Astrophysical Journal"
+  bibcode: 2021ApJ...906...84O
+  volume: "906"
+  pages: "84"
+  doi: "10.3847/1538-4357/abccce"
+  arxiv: "2011.13931"
+- type: first
+  year: 2020
+  authors: "A. Tanimoto, Y. Ueda, H. Odaka, S. Ogawa, S. Yamada, et al."
+  title: "Application of an X-Ray Clumpy Torus Model (XCLUMPY) to 10 Obscured Active Galactic Nuclei Observed with Suzaku and NuSTAR"
+  journal: "The Astrophysical Journal"
+  bibcode: 2020ApJ...897....2T
+  volume: "897"
+  pages: "2"
+  doi: "10.3847/1538-4357/ab96bc"
+  arxiv: "2005.12927"
+- type: coauthor
+  year: 2020
+  authors: "S. Yamada, Y. Ueda, A. Tanimoto, S. Oda, M. Imanishi, et al."
+  title: "Nature of Compton-thick Active Galactic Nuclei in \"Nonmerging\" Luminous Infrared Galaxies UGC 2608 and NGC 5135 Revealed with Broadband X-Ray Spectroscopy"
+  journal: "The Astrophysical Journal"
+  bibcode: 2020ApJ...897..107Y
+  volume: "897"
+  pages: "107"
+  doi: "10.3847/1538-4357/ab94b1"
+  arxiv: "2005.08718"
+- type: coauthor
+  year: 2020
+  authors: "Y. Toba, S. Yamada, Y. Ueda, C. Ricci, Y. Terashima, et al."
+  title: "NuSTAR Discovery of a Compton-thick, Dust-obscured Galaxy: WISE J0825+3002"
+  journal: "The Astrophysical Journal"
+  bibcode: 2020ApJ...888....8T
+  volume: "888"
+  pages: "8"
+  doi: "10.3847/1538-4357/ab5718"
+  arxiv: "1911.04702"
+- type: coauthor
+  year: 2019
+  authors: "T. Miyaji, M. Herrera-Endoqui, M. Krumpe, M. Hanzawa, A. Shogaki, et al."
+  title: "Torus Constraints in ANEPD-CXO245: A Compton-thick AGN with Double-peaked Narrow Lines"
+  journal: "The Astrophysical Journal Letters"
+  bibcode: 2019ApJ...884L..10M
+  volume: "884"
+  pages: "L10"
+  doi: "10.3847/2041-8213/ab46bc"
+  arxiv: "1909.09762"
+- type: coauthor
+  year: 2019
+  authors: "T. Kawamuro, Y. Ueda, K. Ichikawa, M. Imanishi, T. Izumi, et al."
+  title: "A NuSTAR and XMM-Newton Study of the Two Most Actively Star-forming Green Pea Galaxies (SDSS J0749+3337 and SDSS J0822+2241)"
+  journal: "The Astrophysical Journal"
+  bibcode: 2019ApJ...881...48K
+  volume: "881"
+  pages: "48"
+  doi: "10.3847/1538-4357/ab2bf6"
+  arxiv: "1906.09653"
+- type: first
+  year: 2019
+  authors: "A. Tanimoto, Y. Ueda, H. Odaka, T. Kawaguchi, Y. Fukazawa, et al."
+  title: "XCLUMPY: X-Ray Spectral Model from Clumpy Torus and Its Application to the Circinus Galaxy"
+  journal: "The Astrophysical Journal"
+  bibcode: 2019ApJ...877...95T
+  volume: "877"
+  pages: "95"
+  doi: "10.3847/1538-4357/ab1b20"
+  arxiv: "1904.08945"
+- type: coauthor
+  year: 2019
+  authors: "S. Yamada, Y. Ueda, A. Tanimoto, T. Kawamuro, M. Imanishi, et al."
+  title: "Luminosity Ratio between [O IV] 25.89 μm Line and Nuclear Continuum 12 μm as a Diagnostic for “Buried” AGNs"
+  journal: "The Astrophysical Journal"
+  bibcode: 2019ApJ...876...96Y
+  volume: "876"
+  pages: "96"
+  doi: "10.3847/1538-4357/ab14f0"
+  arxiv: "1904.01065"
+- type: coauthor
+  year: 2019
+  authors: "S. Ogawa, Y. Ueda, S. Yamada, A. Tanimoto, T. Kawaguchi"
+  title: "Application of Clumpy Torus Model to Broadband X-Ray Spectra of Two Seyfert 1 Galaxies: IC 4329A and NGC 7469"
+  journal: "The Astrophysical Journal"
+  bibcode: 2019ApJ...875..115O
+  volume: "875"
+  pages: "115"
+  doi: "10.3847/1538-4357/ab0e08"
+  arxiv: "1903.11606"
+- type: coauthor
+  year: 2018
+  authors: "T. Kawamuro, Y. Ueda, M. Shidatsu, T. Hori, M. Morii, et al."
+  title: "The 7-year MAXI/GSC X-Ray Source Catalog in the High Galactic Latitude Sky (3MAXI)"
+  journal: "The Astrophysical Journal Supplement Series"
+  bibcode: 2018ApJS..238...32K
+  volume: "238"
+  pages: "32"
+  doi: "10.3847/1538-4365/aad1ef"
+  arxiv: "1807.00874"
+- type: coauthor
+  year: 2018
+  authors: "S. Yamada, Y. Ueda, S. Oda, A. Tanimoto, M. Imanishi, et al."
+  title: "Broadband X-Ray Spectral Analysis of the Double-nucleus Luminous Infrared Galaxy Mrk 463"
+  journal: "The Astrophysical Journal"
+  bibcode: 2018ApJ...858..106Y
+  volume: "858"
+  pages: "106"
+  doi: "10.3847/1538-4357/aabacb"
+  arxiv: "1803.11223"
+- type: coauthor
+  year: 2018
+  authors: "S. Oda, Y. Ueda, A. Tanimoto, C. Ricci"
+  title: "Hard X-Ray View of HCG 16 (Arp 318)"
+  journal: "The Astrophysical Journal"
+  bibcode: 2018ApJ...855...79O
+  volume: "855"
+  pages: "79"
+  doi: "10.3847/1538-4357/aaaccc"
+  arxiv: "1803.01513"
+- type: coauthor
+  year: 2018
+  authors: "T. Hori, M. Shidatsu, Y. Ueda, T. Kawamuro, M. Morii, et al."
+  title: "The 7-year MAXI/GSC Source Catalog of the Low-Galactic-latitude Sky (3MAXI)"
+  journal: "The Astrophysical Journal Supplement Series"
+  bibcode: 2018ApJS..235....7H
+  volume: "235"
+  pages: "7"
+  doi: "10.3847/1538-4365/aaa89c"
+- type: first
+  year: 2018
+  authors: "A. Tanimoto, Y. Ueda, T. Kawamuro, C. Ricci, H. Awaki, et al."
+  title: "Suzaku  Observations of Heavily Obscured (Compton-thick) Active Galactic Nuclei Selected by the Swift/BAT Hard X-Ray Survey"
+  journal: "The Astrophysical Journal"
+  bibcode: 2018ApJ...853..146T
+  volume: "853"
+  pages: "146"
+  doi: "10.3847/1538-4357/aaa47c"
+  arxiv: "1801.01880"
+- type: coauthor
+  year: 2017
+  authors: "B. P. Abbott, R. Abbott, T. D. Abbott, F. Acernese, K. Ackley, et al."
+  title: "Multi-messenger Observations of a Binary Neutron Star Merger"
+  journal: "The Astrophysical Journal Letters"
+  bibcode: 2017ApJ...848L..12A
+  volume: "848"
+  pages: "L12"
+  doi: "10.3847/2041-8213/aa91c9"
+  arxiv: "1710.05833"
+- type: coauthor
+  year: 2017
+  authors: "S. Oda, A. Tanimoto, Y. Ueda, M. Imanishi, Y. Terashima, et al."
+  title: "Shedding Light on the Compton-thick Active Galactic Nucleus in the Ultraluminous Infrared Galaxy UGC 5101 with Broadband X-Ray Spectroscopy"
+  journal: "The Astrophysical Journal"
+  bibcode: 2017ApJ...835..179O
+  volume: "835"
+  pages: "179"
+  doi: "10.3847/1538-4357/835/2/179"
+  arxiv: "1612.07450"
+- type: first
+  year: 2016
+  authors: "A. Tanimoto, Y. Ueda, T. Kawamuro, C. Ricci"
+  title: "Suzaku follow-up of heavily obscured active galactic nuclei detected in Swift/BAT survey: NGC 1106, UGC 03752, and NGC 2788A"
+  journal: "Publications of the Astronomical Society of Japan"
+  bibcode: 2016PASJ...68S..26T
+  volume: "68"
+  pages: "S26"
+  doi: "10.1093/pasj/psw008"
+  arxiv: "1601.05056"

@@ -1,0 +1,18 @@
+ja:
+  - { title: "ホーム",     url: "/" }
+  - { title: "研究内容",   url: "/research/" }
+  - { title: "メンバー",   url: "/members/" }
+  - { title: "業績",       url: "/publications/" }
+  - { title: "ニュース",   url: "/news/" }
+  - { title: "担当講義",   url: "/lectures/" }
+  - { title: "志望する学生へ", url: "/prospective/" }
+  - { title: "アクセス",   url: "/access/" }
+en:
+  - { title: "Home",         url: "/en/" }
+  - { title: "Research",     url: "/en/research/" }
+  - { title: "Members",      url: "/en/members/" }
+  - { title: "Publications", url: "/en/publications/" }
+  - { title: "News",         url: "/en/news/" }
+  - { title: "Courses",      url: "/en/lectures/" }
+  - { title: "Prospective Students", url: "/en/prospective/" }
+  - { title: "Access",       url: "/en/access/" }

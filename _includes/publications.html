@@ -1,0 +1,23 @@
+{%- assign lang = page.lang | default: site.lang -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- assign pubs = site.data.publications | sort: "year" | reverse -%}
+{%- assign types = "first,coauthor" | split: "," -%}
+{%- for ty in types -%}
+  {%- assign items = pubs | where: "type", ty -%}
+  {%- if items.size > 0 %}
+  <h2>{% if ty == 'first' %}{{ t.first_author }}{% else %}{{ t.coauthor }}{% endif %}</h2>
+  <ol class="pub-list" reversed>
+  {%- for p in items %}
+    <li class="pub-item">
+      <span class="pub-authors">{{ p.authors }}</span>,
+      <span class="pub-title">"{{ p.title }}"</span>,
+      <span class="pub-journal"><em>{{ p.journal }}</em>{% if p.volume %} <strong>{{ p.volume }}</strong>{% endif %}{% if p.pages %}, {{ p.pages }}{% endif %}</span>
+      ({{ p.year }}){% if p.note %} [{{ p.note }}]{% endif %}
+      {%- if p.doi %} <a class="pub-link" href="https://doi.org/{{ p.doi }}">DOI</a>{% endif %}
+      {%- if p.arxiv %} <a class="pub-link" href="https://arxiv.org/abs/{{ p.arxiv }}">arXiv</a>{% endif %}
+      {%- if p.bibcode %} <a class="pub-link" href="https://ui.adsabs.harvard.edu/abs/{{ p.bibcode }}">ADS</a>{% endif %}
+    </li>
+  {%- endfor %}
+  </ol>
+  {%- endif -%}
+{%- endfor %}

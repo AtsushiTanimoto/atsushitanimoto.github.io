@@ -1,13 +1,14 @@
-source 'https://rubygems.org'
-
+source "https://rubygems.org"
+# GitHub Actions でビルド・公開するため、github-pages gem ではなく最新の Jekyll を使う
+gem "jekyll", "~> 4.4"
+gem "webrick"
 group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
 end
-
-gem 'github-pages'
-gem 'connection_pool', '2.5.0'
+# Ruby 3.4 以降で標準添付から外れたライブラリ
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
